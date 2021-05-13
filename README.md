@@ -3,6 +3,7 @@ Sou estudande de Análise e Desenvolvimento de sistemas, buscando oportunidades 
 
 [![Teago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiteago&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiteago&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
