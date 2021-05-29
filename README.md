@@ -17,7 +17,7 @@
   <h2> Atualmente trabalhando em: </h2>
   <img align="right" height="250px" width"250px" src="https://i.imgur.com/iwELI8Z.png"/>
   <p> Projeto realizado com a proposta da conclusão do curso de Análise e desenvolvimento de sistemas. <br>
-  O site tem como proposta, automatizar e organizar as encomendas realizadas para a cliente, cujo os produtos <br>
+  O site tem como proposta, automatizar e organizar as encomendas realizadas para a cliente, cujo os produtos
   são produtos feitos a mão com o enfoque com decorativos para festas (topo de bolo, arco de balões, etc...) <br>
   O site esta sendo desenvolvido utilizando HTML - CSS - JS - JQuery - Boostrap - NodeJS.
   
