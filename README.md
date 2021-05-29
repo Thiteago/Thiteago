@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </div>
   
-  <h2> Atualmente trabalhando em: </h2>
+  <h2> 💻 Atualmente trabalhando em: </h2>
   <img align="right" height="250px" width"250px" src="https://i.imgur.com/iwELI8Z.png"/>
   <p> Projeto realizado com a proposta da conclusão do curso de Análise e desenvolvimento de sistemas. <br>
   O site tem como proposta, automatizar e organizar as encomendas realizadas para a cliente, cujo os produtos
@@ -27,7 +27,7 @@
   
   
 
-<h2>Social Media:</h2><br>
+<h2> 🔝 Social Media:</h2><br>
 <a href="https://www.linkedin.com/in/thiago-david-a82640141/")>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
