@@ -22,7 +22,7 @@
   O site esta sendo desenvolvido utilizando HTML - CSS - JS - JQuery - Boostrap - NodeJS.
   
   O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/ClauPradoWebCommerce" target="_blank">repositório</a> ou pelo 
-  <a href="https://thiteago.github.io/ClauPradoWebCommerce/" target="_blank">GitHub Pages</a> do mesmo.
+  <a href="https://thiteago.github.io/ClauPradoWebCommerce/" target="_blank">GitHub Pages</a>
   </p>
   
   
