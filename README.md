@@ -25,7 +25,13 @@
   <a href="https://thiteago.github.io/ClauPradoWebCommerce/" target="_blank">GitHub Pages</a>.
   </p>
   
-  
+  <h2>📁Últimos projetos Web</h2>
+  <a href="https://thiteago.github.io">Portfolio</a> ✔
+  <a href="https://thiteago.github.io/letmeask">LetMeAsk (Rocketseat)</a> ✔
+  <a href="https://thiteago.github.io/ClauPradoWebCommerce/">ClauPrado</a> ⚒ W.I.P
+  <a href="https://thiteago.github.io/bikcraft-origamid/">BikCraft (Origamid)</a> ✔
+  <a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔
+  <a href="https://thiteago.github.io/Wildbeast/">WildBeast (Origamid)</a> 
 
 <h2> 🔝 Social Media:</h2><br>
 <a href="https://www.linkedin.com/in/thiago-david-a82640141/")>
