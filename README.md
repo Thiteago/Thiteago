@@ -32,7 +32,7 @@
   <li><a href="https://thiteago.github.io/ClauPradoWebCommerce/">ClauPrado</a> ⚒ W.I.P</li>
   <li><a href="https://thiteago.github.io/bikcraft-origamid/">BikCraft (Origamid)</a> ✔</li>
   <li><a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔</li>
-  <li><a href="https://thiteago.github.io/Wildbeast/">WildBeast (Origamid)</a> </li>
+  <li><a href="https://thiteago.github.io/Wildbeast/">WildBeast (Origamid)</a>✔</li>
   </ul>
   
   
