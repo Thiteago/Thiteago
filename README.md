@@ -31,7 +31,7 @@
   <h2>📁Últimos projetos Web</h2>
   <ul>
   <li><a href="https://thiteago.github.io">Portfolio</a> ✔</li> (HTML | CSS | JAVASCRIPT)
-  <li><a href="https://thiteago.github.io/ClauPradoWebCommerce/">ClauPrado</a> ⚒ W.I.P</li> (HTML | CSS | JAVASCRIPT)
+  <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | CSS | Typescript)
   <li><a href="https://thiteago.github.io/letmeask">LetMeAsk (Rocketseat)</a> ✔</li> (HTML | SCSS | REACT.JS | TYPESCRIPT | FIREBASE)
   <li><a href="https://thiteago.github.io/bikcraft-origamid/">BikCraft (Origamid)</a> ✔</li> (HTML | CSS | JAVASCRIPT)
   <li><a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔</li> (HTML | CSS)
