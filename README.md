@@ -24,14 +24,14 @@
   são produtos feitos a mão com o enfoque com decorativos para festas (topo de bolo, arco de balões, etc...) <br>
   O site esta sendo desenvolvido utilizando HTML - CSS - TS - Boostrap - REACT.
   
-  O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/ClauPradoWebCommerce" target="_blank">repositório</a> ou pelo 
+  O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/ProjetoReact" target="_blank">repositório</a> ou pelo 
   <a href="https://thiteago.github.io/ClauPradoWebCommerce/" target="_blank">GitHub Pages</a>.
   </p>
   
   <h2>📁Últimos projetos Web</h2>
   <ul>
   <li><a href="https://thiteago.github.io">Portfolio</a> ✔</li> (HTML | CSS | JAVASCRIPT)
-  <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | CSS | Typescript)
+  <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | SCSS | Typescript | REACT)
   <li><a href="https://thiteago.github.io/letmeask">LetMeAsk (Rocketseat)</a> ✔</li> (HTML | SCSS | REACT.JS | TYPESCRIPT | FIREBASE)
   <li><a href="https://thiteago.github.io/bikcraft-origamid/">BikCraft (Origamid)</a> ✔</li> (HTML | CSS | JAVASCRIPT)
   <li><a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔</li> (HTML | CSS)
