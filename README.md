@@ -22,7 +22,7 @@
   <p> Projeto realizado com a proposta da conclusão do curso de Análise e desenvolvimento de sistemas. <br>
   O site tem como proposta, automatizar e organizar as encomendas realizadas para a cliente, cujo os produtos
   são produtos feitos a mão com o enfoque com decorativos para festas (topo de bolo, arco de balões, etc...) <br>
-  O site esta sendo desenvolvido utilizando HTML - CSS - JS - JQuery - Boostrap - NodeJS.
+  O site esta sendo desenvolvido utilizando HTML - CSS - TS - Boostrap - REACT.
   
   O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/ClauPradoWebCommerce" target="_blank">repositório</a> ou pelo 
   <a href="https://thiteago.github.io/ClauPradoWebCommerce/" target="_blank">GitHub Pages</a>.
