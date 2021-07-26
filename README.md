@@ -25,7 +25,7 @@
   O site esta sendo desenvolvido utilizando HTML - CSS - TS - Boostrap - REACT.
   
   O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/ProjetoReact" target="_blank">repositório</a> ou pelo 
-  <a href="https://thiteago.github.io/ClauPradoWebCommerce/" target="_blank">GitHub Pages</a>.
+  <a href="https://thiteago.github.io/ProjetoReact/#/" target="_blank">GitHub Pages</a>.
   </p>
   
   <h2>📁Últimos projetos Web</h2>
