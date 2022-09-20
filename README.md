@@ -35,7 +35,7 @@
   <li><a href="https://thiteago.github.io">Portfolio</a> ✔</li> (HTML | CSS | JAVASCRIPT)
   <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | SCSS | Typescript | REACT)
   <li><a href="https://thiteago.github.io/letmeask">LetMeAsk (Rocketseat)</a> ✔</li> (HTML | SCSS | REACT.JS | TYPESCRIPT | FIREBASE)
-  <li><a href="https://github.com/Thiteago/NLW-eSports "/>NLW-Esports ✔ </li> (HTML, TAILWINDCSS, REACT NATIVE, SQLITE, REACTJS, NODEJS)
+  <li><a href="https://github.com/Thiteago/NLW-eSports"> NLW-Esports ✔ </li> (HTML, TAILWINDCSS, REACT NATIVE, SQLITE, REACTJS, NODEJS)
   <li><a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔</li> (HTML | CSS)
   <li><a href="https://thiteago.github.io/Wildbeast/">WildBeast (Origamid)</a>✔</li> (HTML | CSS)
   </ul>
