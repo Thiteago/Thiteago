@@ -35,8 +35,8 @@
   O site tem como proposta, automatizar e organizar as encomendas realizadas para a cliente, cujo os produtos
   são produtos feitos a mão com o enfoque com decorativos para festas (topo de bolo, arco de balões, etc...) <br>
   O site esta sendo desenvolvido utilizando: <br>
-  Front: React.JS, SCSS, Styled Components, Typescript.<br>
-  Back: Node.JS, ExpressJS, PostgreSQL
+  Front: Sveltekit, SCSS, TailwindCSS.<br>
+  Back: Node.JS, ExpressJS, PostgreSQL, Typescript
   
   O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/ProjetoReact" target="_blank">repositório</a> ou pelo 
   <a href="https://thiteago.github.io/ProjetoReact/#/" target="_blank">GitHub Pages</a>.
