@@ -39,7 +39,7 @@
   Back: Node.JS, ExpressJS, PostgreSQL, Typescript
   
   O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/ProjetoReact" target="_blank">repositório</a> ou pelo 
-  <a href="https://thiteago.github.io/ProjetoReact/#/" target="_blank">GitHub Pages</a>.
+  <a href="https://claupradoecommerce.netlify.app/" target="_blank">Netlify</a>.
   </p>
   
   <h2>📁Últimos projetos Web</h2>
