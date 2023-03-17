@@ -38,7 +38,7 @@
   Front: Sveltekit, SCSS, TailwindCSS.<br>
   Back: Node.JS, ExpressJS, PostgreSQL, Typescript
   
-  O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/ProjetoReact" target="_blank">repositório</a> ou pelo 
+  O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/svelte-clau-prado" target="_blank">repositório</a> ou pelo 
   <a href="https://claupradoecommerce.netlify.app/" target="_blank">Netlify</a>.
   </p>
   
