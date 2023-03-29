@@ -1,6 +1,6 @@
 <h1> Hi There 👋 </h1>
   <p>
-    Sou estudande de Análise e Desenvolvimento de sistemas, buscando oportunidades de participação de projetos relacionados a Desenvolvimento Web. 
+  I am currently working on <a href="https://www.seguroviagem.srv.br/">Real Seguro Viagem</a>, my first work as a fullstack developer, there I managed to apply and learn a lot of what you can see on my recent contributions here on GitHub.
   </p>
   <p>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thiteago&show_icons=true&theme=dark"/>
