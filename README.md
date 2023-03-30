@@ -29,27 +29,27 @@
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
   </div>
   
-  <h2> 💻 Atualmente trabalhando em: </h2>
+  <h2> 💻 My last personal project: </h2>
   <img align="right" height="250px" width"250px" src="https://i.imgur.com/iwELI8Z.png"/>
-  <p> Projeto realizado com a proposta da conclusão do curso de Análise e desenvolvimento de sistemas. <br>
-  O site tem como proposta, automatizar e organizar as encomendas realizadas para a cliente, cujo os produtos
-  são produtos feitos a mão com o enfoque com decorativos para festas (topo de bolo, arco de balões, etc...) <br>
-  O site esta sendo desenvolvido utilizando: <br>
-  Front: Sveltekit, SCSS, TailwindCSS.<br>
-  Back: Node.JS, ExpressJS, PostgreSQL, Typescript
+  <p> Project carried out with the proposal of completing the Systems Analysis and Development course. <br>
+   The site's purpose is to automate and organize the orders placed for the customer, whose products
+   are handmade products with a focus on decorations for parties (cake topper, balloon arch, etc...) <br>
+   The site is being developed using: <br>
+  Front-End: Sveltekit, SCSS, TailwindCSS.<br>
+  Back-End: Node.JS, ExpressJS, PostgreSQL, Typescript
   
-  O projeto pode ser acompanhado pelo <a href="https://github.com/Thiteago/svelte-clau-prado" target="_blank">repositório</a> ou pelo 
+  The project can be checked on  <a href="https://github.com/Thiteago/svelte-clau-prado" target="_blank">Github repository</a> or by
   <a href="https://claupradoecommerce.netlify.app/" target="_blank">Netlify</a>.
   </p>
   
-  <h2>📁Últimos projetos Web</h2>
+  <h2>📁Last developed projects</h2>
   <ul>
-  <li><a href="https://thiteago.github.io">Portfolio</a> ✔</li> (HTML | CSS | JAVASCRIPT)
-  <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | SCSS | Typescript | REACT)
-  <li><a href="https://thiteago.github.io/letmeask">LetMeAsk (Rocketseat)</a> ✔</li> (HTML | SCSS | REACT.JS | TYPESCRIPT | FIREBASE)
-  <li><a href="https://github.com/Thiteago/NLW-eSports">NLW-Esports (Rocketseat)</a> ✔</li> (HTML | TAILWINDCSS | REACT.JS | TYPESCRIPT | REACT NATIVE | NODEJS)
-  <li><a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔</li> (HTML | CSS)
-  <li><a href="https://thiteago.github.io/Wildbeast/">WildBeast (Origamid)</a>✔</li> (HTML | CSS)
+    <li><a href="https://thiteago.github.io">Portfolio</a> ✔</li> (HTML | CSS | JAVASCRIPT)
+    <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | SCSS | Typescript | REACT)
+    <li><a href="https://thiteago.github.io/letmeask">LetMeAsk (Rocketseat)</a> ✔</li> (HTML | SCSS | REACT.JS | TYPESCRIPT | FIREBASE)
+    <li><a href="https://github.com/Thiteago/NLW-eSports">NLW-Esports (Rocketseat)</a> ✔</li> (HTML | TAILWINDCSS | REACT.JS | TYPESCRIPT | REACT NATIVE | NODEJS)
+    <li><a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔</li> (HTML | CSS)
+    <li><a href="https://thiteago.github.io/Wildbeast/">WildBeast (Origamid)</a>✔</li> (HTML | CSS)
   </ul>
   
   
