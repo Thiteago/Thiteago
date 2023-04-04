@@ -58,16 +58,12 @@
   
   
 
-<h2> 🔝 Social Media:</h2><br>
-<a href="https://www.linkedin.com/in/thiago-david-a82640141/")>
+<h2> 🔝 Contacts:</h2><br>
+<a href="https://www.linkedin.com/in/thiago-david-a82640141/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
-<a href="https://www.instagram.com/thiagoidavid/")>
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.facebook.com/thiagoidavid/")>
-  <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
-</a>
+
+
 
 
 
