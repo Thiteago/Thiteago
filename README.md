@@ -45,7 +45,7 @@
   <h2>📁Last developed projects</h2>
   <ul>
     <li><a href="https://thiteago.github.io">Portfolio</a> ✔</li> (HTML | CSS | JAVASCRIPT)
-    <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | SCSS | Typescript | REACT)
+    <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | SCSS | SVELTEKIT)
     <li><a href="https://thiteago.github.io/letmeask">LetMeAsk (Rocketseat)</a> ✔</li> (HTML | SCSS | REACT.JS | TYPESCRIPT | FIREBASE)
     <li><a href="https://github.com/Thiteago/NLW-eSports">NLW-Esports (Rocketseat)</a> ✔</li> (HTML | TAILWINDCSS | REACT.JS | TYPESCRIPT | REACT NATIVE | NODEJS)
     <li><a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔</li> (HTML | CSS)
