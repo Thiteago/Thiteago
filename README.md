@@ -28,25 +28,6 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
   </div>
-  
-  <h2> 💻 My last personal project: </h2>
-  <img align="right" height="250px" width"250px" src="https://i.imgur.com/iwELI8Z.png"/>
-  <p> Project carried out with the proposal of completing the Systems Analysis and Development course. <br>
-   The site's purpose is to automate and organize the orders placed for the customer, whose products
-   are handmade products with a focus on decorations for parties (cake topper, balloon arch, etc...) <br>
-   The site is being developed using: <br>
-  Front-End: Sveltekit, SCSS, TailwindCSS.<br>
-  Back-End: Node.JS, ExpressJS, PostgreSQL, Typescript
-  
-  The project can be checked on  <a href="https://github.com/Thiteago/svelte-clau-prado" target="_blank">Github repository</a> or by
-  <a href="https://claupradoecommerce.netlify.app/" target="_blank">Netlify</a>.
-  </p>
-  
-<h2> 🔝 Contacts:</h2><br>
-<a href="https://www.linkedin.com/in/thiago-david-a82640141/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a>
-
 
 
 
