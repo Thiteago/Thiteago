@@ -42,22 +42,6 @@
   <a href="https://claupradoecommerce.netlify.app/" target="_blank">Netlify</a>.
   </p>
   
-  <h2>📁Last developed projects</h2>
-  <ul>
-    <li><a href="https://thiteago.github.io">Portfolio</a> ✔</li> (HTML | CSS | JAVASCRIPT)
-    <li><a href="https://thiteago.github.io/ProjetoReact/">ClauPrado</a> ⚒ W.I.P</li> (HTML | SCSS | SVELTEKIT)
-    <li><a href="https://thiteago.github.io/letmeask">LetMeAsk (Rocketseat)</a> ✔</li> (HTML | SCSS | REACT.JS | TYPESCRIPT | FIREBASE)
-    <li><a href="https://github.com/Thiteago/NLW-eSports">NLW-Esports (Rocketseat)</a> ✔</li> (HTML | TAILWINDCSS | REACT.JS | TYPESCRIPT | REACT NATIVE | NODEJS)
-    <li><a href="https://thiteago.github.io/FlexBlog/">FlexBlog (Origamid)</a> ✔</li> (HTML | CSS)
-    <li><a href="https://thiteago.github.io/Wildbeast/">WildBeast (Origamid)</a>✔</li> (HTML | CSS)
-  </ul>
-  
-  
-  
-  
-  
-  
-
 <h2> 🔝 Contacts:</h2><br>
 <a href="https://www.linkedin.com/in/thiago-david-a82640141/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
