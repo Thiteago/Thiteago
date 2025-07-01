@@ -2,10 +2,6 @@
   <p>
   I am currently working at <a href="https://www.seguroviagem.srv.br/">Real Seguro Viagem</a>, as a fullstack developer.
   </p>
-  <p>
-    <img height=172 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thiteago&show_icons=true&theme=dark"/>
-    <img height=172 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thiteago&layout=compact&theme=dark"/>
-  </p>
   <div style="text-align: center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
